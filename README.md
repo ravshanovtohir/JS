@@ -1,1 +1,1 @@
-# Node-JS darsida o'rganish vaqtida qilingan uy_vazifalar
+# Node-JS o'rganish vaqtida qilingan uy_vazifalar
